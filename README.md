@@ -1,1 +1,1 @@
-These are to be performed on Kits like - Raspberry-Pi /Arduino.
+These are to be performed on Kits like - Raspberry-Pi /Arduino and software - MPLAB IDE.
